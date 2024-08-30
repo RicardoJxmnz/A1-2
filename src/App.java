@@ -19,7 +19,7 @@ public class App {
             System.out.println(vehicle[i].rentVehicle());
         }
 
-        System.err.println("");
+        System.out.println("");
 
         for(int i=0;i<=4;i++){
             System.out.println(vehicle[i].returnVehicle());
