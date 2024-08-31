@@ -17,8 +17,4 @@ public class Car extends Vehicle{
         return showDetails() + " " + "No. de Puertas:" + numberDoors + " " + "Devuelto";
     }
 
-    /*public int getNumberDoors() {
-        return numberDoors;
-    }*/
-
 }

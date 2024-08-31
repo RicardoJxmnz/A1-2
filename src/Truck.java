@@ -6,9 +6,6 @@ public class Truck extends Vehicle {
         this.loadCapacity = loadCapacity;
     }
 
-    /*public int getLoadCapacity() {
-        return loadCapacity;
-    }*/
 
     @Override
     public String rentVehicle(){

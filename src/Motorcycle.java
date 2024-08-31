@@ -17,9 +17,4 @@ public class Motorcycle extends Vehicle {
         return showDetails() + " " + "Tipo de manillar:" + handlebarType + " " + "Devuelto";
     }
 
-    /*public String getHandlebarType() {
-        return handlebarType;
-    }*/
-
-    
 }
